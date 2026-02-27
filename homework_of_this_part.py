@@ -110,9 +110,16 @@ import math
 #      print(space_of_rectangle) 
 
 
-# Goroda
-goroda = ['New-York', 'Tashkent', 'Berlin', 'Tokyo', 'Paris']
-#print(goroda[0:3:2])
-goroda[0] = goroda[2]
-goroda[2] = goroda[0]
-print(goroda)
+# Words and letters game
+# word  = input('Enter the word! ')
+
+# if len(word) % 2 == 0:
+#    x = len(word) / 2
+#    y = x - 1
+#    letter = word[int(y):int(-y)]
+#    print(letter)
+# elif len(word) % 2 != 0:
+#    x = len(word) - 1
+#    y = x / 2
+#    letter = word[int(y):int(-y)]
+#    print(letter)
