@@ -156,3 +156,16 @@ import math
 #        print(couple[0], ' pare with ',  couple[1])
 
 
+
+
+#Average temperature per country
+# countries_temperature = [
+#     ['Таиланд', [75.2, 77, 78.8, 73.4, 68, 75.2, 77]],
+#     ['Германия', [57.2, 55.4, 59, 59, 53.6]],
+#     ['Россия', [35.6, 37.4, 39.2, 41, 42.8, 39.2, 35.6]],
+#     ['Польша', [50, 50, 53.6, 57.2, 55.4, 55.4]]
+# ]
+# print("Average temperature in countries:  ")
+# for temperature in countries_temperature:
+#     average_temp = ((sum(temperature[1])/len(temperature[1]))-32)/1.8
+#     print(temperature[0], ' - ', (round(average_temp, 1)))
