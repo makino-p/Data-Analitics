@@ -123,3 +123,36 @@ import math
 #    y = x / 2
 #    letter = word[int(y):int(-y)]
 #    print(letter)
+
+
+
+
+#Game with numbers
+# imput = 1
+# numbs = []
+# while imput != 0:
+#    imput = int(input("Enter numb!  "))
+#    numbs.append(imput) 
+# print(sum(numbs))		
+
+
+
+# Pares
+#boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard']
+# girls = ['Kate', 'Liza', 'Kira', 'Emma', 'Trisha']
+# boys_sorted = []
+# girls_sorted = []
+# boys_sorted = sorted(boys)
+# girls_sorted = sorted(girls)
+
+
+# if len(boys) != len(girls): 
+#    print("Someone might be alone! ")
+
+# elif len(boys) == len(girls):
+#     couples_list = zip(boys, girls)
+#     new_list = list(couples_list)
+#     for couple in new_list:
+#        print(couple[0], ' pare with ',  couple[1])
+
+
